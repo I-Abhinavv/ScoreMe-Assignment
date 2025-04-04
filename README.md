@@ -26,8 +26,7 @@ This tool extracts tables from **system-generated PDFs** (with or without border
 
 ##  Output
 
-- Excel file per PDF in the specified output folder.
-- Each table is saved as a **separate sheet** in the Excel file.
+- Excel file of PDFs in the specified output folder.
 - Sheet names indicate the page and order of tables found.
 
 ---
