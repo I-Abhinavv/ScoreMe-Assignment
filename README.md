@@ -1,7 +1,7 @@
 # ScoreMe-Assignment
 # PDF Table Extractor
 
-This tool extracts tables from **system-generated PDFs** (with or without borders, including irregular-shaped tables) **without using Tabula, Camelot, or converting PDFs to images**. The extracted tables are stored in Excel format — one Excel file per PDF.
+This tool extracts tables from **system-generated PDFs** (with or without borders, including irregular-shaped tables) **without using Tabula, Camelot, or converting PDFs to images**. The extracted tables are stored in Excel format.
 
 ---
 
