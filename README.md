@@ -47,7 +47,8 @@ Tested with:
 
 ```
 
--`--input_folder`: Directory containing `.pdf` files.
+- `--input_folder`: Directory containing `.pdf` files.
 - `--output_folder`: Where `.xlsx` output files will be saved.
+
 
 
