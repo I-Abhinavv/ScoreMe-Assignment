@@ -32,7 +32,7 @@ This tool extracts tables from **system-generated PDFs** (with or without border
 
 ---
 
-## 💻Dependencies
+## Dependencies
 
 Install required libraries using pip:
 
@@ -47,15 +47,7 @@ Tested with:
 
 ---
 
-##  How to Use
 
-### Folder Structure
-
-```
-project/
-├── extract_tables.py
-├── pdfs/                 # <- Put your PDF files here
-└── output_excels/        # <- Excel files will be saved here
 ```
 input_folder: Directory containing `.pdf` files.
 output_folder: Where `.xlsx` output files will be saved.
