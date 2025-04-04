@@ -46,8 +46,9 @@ Tested with:
 - openpyxl 3.1.5
 
 ```
--input_folder: Directory containing `.pdf` files.
--output_folder: Where `.xlsx` output files will be saved.
-
+input_folder: Directory containing `.pdf` files.
+output_folder: Where `.xlsx` output files will be saved.
+`--input_folder`: Directory containing `.pdf` files.
+- `--output_folder`: Where `.xlsx` output files will be saved.
 
 
